@@ -25,5 +25,5 @@ jobs:
           subject: To小🐟
           body: file://result.txt
           to: oopsdc@qq.com
-          from: 0opsdc
+          from: 刘喵喵
           content_type: text/html
