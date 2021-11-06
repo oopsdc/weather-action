@@ -24,6 +24,6 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: To小🐟
           body: file://result.txt
-          to: oopsdc@qq.com
+          to: 2756115954@qq.com
           from: 刘喵喵
           content_type: text/html
