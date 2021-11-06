@@ -1,3 +1,3 @@
 #!/bin/sh
 
-curl wttr.in/Taiyuan?format=v2
+wget wttr.in/Taiyuan.png
