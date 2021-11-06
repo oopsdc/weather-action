@@ -22,7 +22,7 @@ jobs:
           server_port: 465
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
-          subject: 小🐟
+          subject: To小🐟
           body: file://result.txt
           to: oopsdc@qq.com
           from: 0opsdc
